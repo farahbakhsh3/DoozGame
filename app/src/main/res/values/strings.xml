@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dooz Game</string>
+    <string name="play_again">Play Again</string>
+    <string name="winner">Winner :</string>
+    <string name="redwon">Red player won</string>
+    <string name="yellowon">Yellow player won</string>
+    <string name="nowinner">No Winner</string>
+    <string name="reset">RESET</string>
+</resources>
